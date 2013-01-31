@@ -1,4 +1,5 @@
- {-# LANGUAGE TypeSynonymInstances #-}
+{-# LANGUAGE TypeSynonymInstances #-}
+{-# LANGUAGE FlexibleInstances #-}
 module Matrix
     ( Matrix(..)
     , toList
